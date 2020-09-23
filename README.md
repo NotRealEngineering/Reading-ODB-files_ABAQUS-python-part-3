@@ -1,0 +1,1 @@
+# Reading-ODB-files_ABAQUS-python-part-3
