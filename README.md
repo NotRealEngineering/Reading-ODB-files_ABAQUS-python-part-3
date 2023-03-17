@@ -4,7 +4,7 @@ This is a code I used in following video:
 
 Reading Abaqus ODB files using python scripting | Python scripting in Abaqus part-3
 
-Link of video: https://youtu.be/6XIyQb6Zbx4
+Link of video:
 
 Email: notrealengineering@gmail.com
 
