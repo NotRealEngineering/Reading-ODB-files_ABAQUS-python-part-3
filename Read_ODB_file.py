@@ -1,5 +1,4 @@
 #Property of Not Real Engineering 
-#Author: Shank S. Kulkarni
 #Copyright 2020 Not Real Engineering - All Rights Reserved You may not use, 
 #           distribute and modify this code without the written permission 
 #           from Not Real Engineering.
@@ -96,4 +95,3 @@ sortie.write('\n')
 sortie.close()    
 
 #Property of Not Real Engineering 
-# Author: Shank S. Kulkarni
