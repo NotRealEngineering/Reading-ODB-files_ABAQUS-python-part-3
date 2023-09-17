@@ -1,10 +1,10 @@
 # Reading-ODB-files_ABAQUS-python-part-3
 
-This is a code I used in following video:
+This is a code I used in the following video:
 
 Reading Abaqus ODB files using python scripting | Python scripting in Abaqus part-3
 
-Link of video:
+Link of video: https://youtu.be/euZiIylDYDY?si=wWjdGsgeCvX0G7n-
 
 Email: notrealengineering@gmail.com
 
